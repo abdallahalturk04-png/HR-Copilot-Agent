@@ -1,0 +1,32 @@
+
+# LLM and Ollama
+ollama
+langchain
+langchain-ollama
+langchain-core
+
+# Agent Framework
+langgraph
+
+# RAG and Vector Database
+chromadb
+langchain-chroma
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# User Interface
+streamlit
+
+# Data and Database
+pandas
+numpy
+sqlalchemy
+
+# Configuration
+python-dotenv
+pydantic
+
+# Evaluation and Testing
+pytest

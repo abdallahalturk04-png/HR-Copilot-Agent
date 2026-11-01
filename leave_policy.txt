@@ -1,0 +1,125 @@
+
+COMPANY HR POLICY MANUAL
+ANNUAL LEAVE POLICY
+Policy ID: HR-POL-001
+Version: 1.0
+
+==================================================
+ARTICLE 1: PURPOSE
+==================================================
+
+This policy defines the rules and procedures for
+annual paid leave for company employees.
+
+Its purpose is to ensure fair leave allocation,
+proper workforce planning, and consistent leave
+management across all departments.
+
+==================================================
+ARTICLE 2: ANNUAL LEAVE ENTITLEMENT
+==================================================
+
+2.1 Full-time employees are entitled to 21 working
+days of paid annual leave per calendar year.
+
+2.2 Annual leave entitlement is calculated on a
+pro-rata basis for employees who join during the year.
+
+2.3 Annual leave is accrued at a rate of 1.75 days
+per completed month of service.
+
+2.4 Part-time and temporary employees follow the
+entitlement stated in their employment agreements.
+
+==================================================
+ARTICLE 3: LEAVE REQUEST PROCEDURE
+==================================================
+
+3.1 Employees must submit annual leave requests
+through the company's HR system.
+
+3.2 Employees should submit requests at least
+5 working days before the requested leave date.
+
+3.3 All leave requests require approval from the
+employee's direct manager.
+
+3.4 HR must record the final approval decision.
+
+3.5 Approval depends on business requirements,
+team availability, and operational needs.
+
+==================================================
+ARTICLE 4: LEAVE BALANCE
+==================================================
+
+4.1 Employees can check their remaining annual
+leave balance through the HR department.
+
+4.2 Remaining leave balance is calculated as:
+
+Remaining Leave =
+Annual Leave Entitlement - Approved Used Leave
+
+4.3 Pending and rejected leave requests are not
+deducted from the used leave balance.
+
+4.4 Employees cannot use more annual leave days
+than their available balance without special
+written HR approval.
+
+==================================================
+ARTICLE 5: CARRY FORWARD
+==================================================
+
+5.1 Employees may carry forward a maximum of
+5 unused annual leave days to the following year.
+
+5.2 Carried-forward leave must be used by
+March 31 of the following calendar year.
+
+5.3 Unused carried-forward leave expires after
+the deadline unless HR grants an exception.
+
+==================================================
+ARTICLE 6: LEAVE CANCELLATION
+==================================================
+
+6.1 Employees who wish to cancel an approved
+leave request must notify their manager and HR.
+
+6.2 HR must update the employee's leave record
+after cancellation approval.
+
+6.3 Cancelled leave must not be counted as
+used annual leave.
+
+==================================================
+ARTICLE 7: MANAGEMENT RESPONSIBILITIES
+==================================================
+
+7.1 Managers are responsible for reviewing
+leave requests fairly.
+
+7.2 HR is responsible for maintaining accurate
+employee leave records.
+
+7.3 Employees are responsible for submitting
+accurate leave requests and following this policy.
+
+==================================================
+ARTICLE 8: POLICY AUTHORITY
+==================================================
+
+8.1 HR is responsible for interpreting and
+administering this policy.
+
+8.2 Exceptions require written HR approval.
+
+8.3 This document represents a fictional internal
+company policy created for the HR Copilot project.
+It is not a statement of applicable labor law.
+
+==================================================
+END OF ANNUAL LEAVE POLICY
+==================================================

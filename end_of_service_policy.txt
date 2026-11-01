@@ -1,0 +1,101 @@
+
+COMPANY HR POLICY MANUAL
+END OF SERVICE POLICY
+Policy ID: HR-POL-002
+Version: 1.0
+
+==================================================
+ARTICLE 1: PURPOSE
+==================================================
+
+This policy defines the company's internal procedure
+for estimating end-of-service benefits for eligible
+employees when their employment ends.
+
+This policy is a fictional company policy created
+for the HR Copilot project.
+
+==================================================
+ARTICLE 2: ELIGIBILITY
+==================================================
+
+2.1 Employees who have completed at least one year
+of continuous service are eligible for the standard
+company end-of-service benefit under this policy.
+
+2.2 Employees with less than one year of service
+must have their eligibility reviewed by HR.
+
+2.3 HR must verify the employee's employment status
+and service dates before calculating any benefit.
+
+==================================================
+ARTICLE 3: CALCULATION METHOD
+==================================================
+
+3.1 For this project, the illustrative company
+calculation uses 21 days of basic salary for
+each completed or partial year of service.
+
+3.2 Daily basic salary is calculated as:
+
+Daily Basic Salary = Monthly Basic Salary / 30
+
+3.3 Estimated End-of-Service Benefit is calculated as:
+
+Estimated Benefit =
+Daily Basic Salary * 21 * Years of Service
+
+3.4 Years of service are calculated using the
+number of calendar days between the hire date
+and the employment end date, divided by 365.25.
+
+3.5 Only basic salary is included in this
+illustrative calculation. Allowances are excluded.
+
+==================================================
+ARTICLE 4: REQUIRED INFORMATION
+==================================================
+
+4.1 HR must verify the following information:
+
+- Employee ID
+- Employment start date
+- Employment end date
+- Last basic monthly salary
+- Employment status
+
+4.2 The employee's salary and service dates must
+be verified before issuing a final calculation.
+
+==================================================
+ARTICLE 5: REVIEW AND APPROVAL
+==================================================
+
+5.1 HR must review all end-of-service calculations.
+
+5.2 The Finance Department must verify the
+financial amount before payment.
+
+5.3 Any exceptional case must be referred to
+the HR Manager.
+
+==================================================
+ARTICLE 6: IMPORTANT DISCLAIMER
+==================================================
+
+6.1 This policy describes a fictional company
+calculation used for software demonstration.
+
+6.2 It is not a statement of Jordanian labor law
+or any other country's employment legislation.
+
+6.3 Actual legal entitlements may differ depending
+on applicable law, contract terms, and circumstances.
+
+6.4 Employees must consult HR for an official
+end-of-service calculation.
+
+==================================================
+END OF END OF SERVICE POLICY
+==================================================
